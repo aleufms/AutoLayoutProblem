@@ -25,7 +25,6 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="21" id="P02-2m-vvK"/>
-                                            <constraint firstAttribute="width" constant="42" id="cu7-ld-pLS"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="highlightedColor"/>
@@ -33,6 +32,7 @@
                                 </subviews>
                                 <color key="backgroundColor" red="0.94117653369999998" green="0.94117653369999998" blue="0.94117653369999998" alpha="1" colorSpace="deviceRGB"/>
                                 <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="FDt-Vn-mb8" secondAttribute="bottom" constant="8" id="2qr-55-iFs"/>
                                     <constraint firstAttribute="trailing" secondItem="FDt-Vn-mb8" secondAttribute="trailing" constant="25" id="ZH9-6e-NaC"/>
                                     <constraint firstItem="FDt-Vn-mb8" firstAttribute="top" secondItem="MsW-sU-owd" secondAttribute="top" constant="25" id="dvb-8n-afK"/>
                                 </constraints>
